@@ -6,8 +6,7 @@
   "scripts": {
     "start": "nodemon app.js",
     "docker:build": "docker build -t node-test:0.1 .",
-    "docker:run": "docker run -p 3000:3000 -ti node-test:0.1",
-    "test": "curl -i http://localhost:3000"
+    "docker:run": "docker run -p 3000:3000 -ti node-test:0.1"
   },
   "repository": {
     "type": "git",
