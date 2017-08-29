@@ -1,0 +1,24 @@
+{
+  "name": "docker-express-app",
+  "version": "1.0.0",
+  "description": "An Express driven MongoDB/Docker application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman-tahir/docker-express-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman-tahir/docker-express-app/issues"
+  },
+  "homepage": "https://github.com/usman-tahir/docker-express-app#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0"
+  }
+}
