@@ -21,6 +21,7 @@
   "homepage": "https://github.com/usman-tahir/docker-express-app#readme",
   "dependencies": {
     "express": "^4.15.4",
+    "mongoose": "^4.11.9",
     "nodemon": "^1.11.0"
   }
 }
